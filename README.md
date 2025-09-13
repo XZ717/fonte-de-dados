@@ -5,6 +5,7 @@ Materia Fatec 2025-2
 
 ## Atividade Teams dia 12/09/25:
 Ultilizamos o Excel e algumas fórmulas:
-=CONT.VALORES(): Conta a quantidade de células em um detemindado intervalo.
-=MÁXIMOSES(): Retorna o maior valor de uma célula de um determinado intervalo dependendo de suas condições.
-=CORRESP(): Retorna a posição da célula 
+=CONT.VALORES(): Conta a quantidade de células não vazias em um detemindado intervalo.
+=MÁXIMOSES(): Retorna o maior valor de uma célula de um determinado intervalo que atende uma ou mais condições.
+=CORRESP(): Retorna a posição da célula escolhida por seu valor dentro de um intervalo.
+=ÍNDICE(): Retorna o valor da célula escolhida por sua posição na tabela.
