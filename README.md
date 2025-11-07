@@ -3,8 +3,8 @@
 Materia Fatec 2025-2
 ## Atividade 1: Apresentação em equipe, ultilizamos o software Gamma.app
 
-## Atividade 2 Teams dia 12/09/25:
-Ultilizamos o Excel e algumas fórmulas:</br>
+## Atividade 2: Tabela de Dados Teams dia 12/09/25:
+Ultilizamos o Excel e as seguintes fórmulas:</br>
 =CONT.VALORES(): Conta a quantidade de células não vazias em um detemindado intervalo.
 </br>
 "CONT.VALORES(sp_municipal!A:J)-1".
@@ -33,6 +33,17 @@ Ultilizamos o Excel e algumas fórmulas:</br>
 <img width="1136" height="706" alt="508485904-c5e558b3-9c3d-4104-a7a1-c4d9661c537a" src="https://github.com/user-attachments/assets/9ed6dcc9-9759-4eff-877a-0b8cd1d43d69" /></br>
 
 
-## Atividade 3 Introdução ao Power BI - Utilização de funções do Software.
-Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.</br>
+## Atividade 3: Introdução ao Power BI - Utilização de funções do Software.
+Nr° 1: Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.</br>
 <img width="1228" height="736" alt="Atividade 3" src="https://github.com/user-attachments/assets/847bb306-b5a6-49e7-8507-35d69dbea3a8" />
+</br>
+</br>
+
+Nr° 2: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.</br>
+<img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/c6a7c180-235d-4ba6-a681-2cd05da13dbe" />
+</br>
+</br>
+
+## Atividade 4: Introdução a extração de dados do Comex stat e confecção de dados no Power BI.
+</br>
+<img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/e05f31cd-0d7a-4eea-8f5a-8a4e900877d1" />
