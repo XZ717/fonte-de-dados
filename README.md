@@ -30,9 +30,9 @@ Ultilizamos o Excel e algumas fórmulas:</br>
 "ÍNDICE(sp_municipal!F:F;B18;1)".
 </br>
 </br>
-
 <img width="1136" height="706" alt="508485904-c5e558b3-9c3d-4104-a7a1-c4d9661c537a" src="https://github.com/user-attachments/assets/9ed6dcc9-9759-4eff-877a-0b8cd1d43d69" /></br>
 
 
 ## Atividade 3 Introdução ao Power BI - Utilização de funções do Software.
+## Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
 <img width="1228" height="736" alt="Atividade 3" src="https://github.com/user-attachments/assets/847bb306-b5a6-49e7-8507-35d69dbea3a8" />
