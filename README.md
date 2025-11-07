@@ -7,21 +7,28 @@ Materia Fatec 2025-2
 Ultilizamos o Excel e algumas fórmulas:</br>
 =CONT.VALORES(): Conta a quantidade de células não vazias em um detemindado intervalo.
 </br>
-"CONT.VALORES(sp_municipal!A:J)-1"
+"CONT.VALORES(sp_municipal!A:J)-1".
+</br>
 </br>
 =MÁXIMOSES(): Retorna o maior valor de uma célula de um determinado intervalo que atende uma ou mais condições.
 </br>
-"MÁXIMOSES (sp_municipal!G:G;sp_municipal!D:D;2022;sp_municipal!B:B;"São Paulo")"
+"MÁXIMOSES (sp_municipal!G:G;sp_municipal!D:D;2022;sp_municipal!B:B;"São Paulo")".
+</br>
 </br>
 =MINIMOSES(): Retorna o menor valor de uma célula de um determinado intervalo que atende uma ou mais condições.
 </br>
+"MÍNIMOSES(sp_municipal!G:G;sp_municipal!D:D;2023;sp_municipal!B:B;"São Paulo")".
+</br>
+</br>
 =CORRESP(): Retorna a posição da célula escolhida por seu valor dentro de um intervalo.
 </br>
-"CORRESP(B12;sp_municipal!G:G;0)"
+"CORRESP(B12;sp_municipal!G:G;0)".
+</br>
 </br>
 =ÍNDICE(): Retorna o valor da célula escolhida por sua posição na tabela.
 </br>
-"ÍNDICE(sp_municipal!F:F;B18;1)"
+"ÍNDICE(sp_municipal!F:F;B18;1)".
+</br>
 </br>
 
 ## Atividade 3 Introdução ao Power BI - Utilização de funções do Software.
