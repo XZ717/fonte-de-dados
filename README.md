@@ -34,5 +34,5 @@ Ultilizamos o Excel e algumas fórmulas:</br>
 
 
 ## Atividade 3 Introdução ao Power BI - Utilização de funções do Software.
-Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.
+Introdução a extração de dados do Comex stat e confecção de dados no Power BI. Matéria da aula de Fonte de informação e banco de dados.</br>
 <img width="1228" height="736" alt="Atividade 3" src="https://github.com/user-attachments/assets/847bb306-b5a6-49e7-8507-35d69dbea3a8" />
