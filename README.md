@@ -1,8 +1,14 @@
 # fonte-de-dados
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/89becc40-13f0-4c64-97a2-a3d07c1b005a" /> </br>
 Materia Fatec 2025-2
-## Atividade 1: Apresentação em equipe, ultilizamos o software Gamma.app
+</br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/89becc40-13f0-4c64-97a2-a3d07c1b005a" />
+</br>
+</br>
 
+## Atividade 1: Apresentação em equipe, ultilizamos o software Gamma.app
+<img width="1197" height="623" alt="image" src="https://github.com/user-attachments/assets/171b8d59-7f20-436a-852e-dc20e0769a24" />
+</br>
+</br>
 ## Atividade 2: Tabela de Dados Teams dia 12/09/25:
 Ultilizamos o Excel e as seguintes fórmulas:</br>
 =CONT.VALORES(): Conta a quantidade de células não vazias em um detemindado intervalo.
