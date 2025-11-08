@@ -47,4 +47,15 @@ Nr° 2: Introdução a extração de dados do Comex stat e confecção de dados 
 ## Atividade 4: Atividade Aula 31/10/2025 sobre tratamento de dados do gráfico Ice Cream.
 Dados no Excel:
 </br>
+</br>
 <img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/e05f31cd-0d7a-4eea-8f5a-8a4e900877d1" />
+</br>
+</br>
+Dados no Colab do Google:
+</br>
+</br>
+<img width="1009" height="685" alt="508499445-d0e06350-42a1-4079-a8f2-7f86855aee51" src="https://github.com/user-attachments/assets/d8934330-fe86-49df-bc20-82eed34bfaac" />
+</br>
+<img width="762" height="771" alt="508499491-e238490b-dc75-439e-a2e8-d96f75a70006" src="https://github.com/user-attachments/assets/77478b87-c414-44a1-bb87-961c6922bb15" />
+</br>
+<img width="774" height="432" alt="508499526-c577c132-317e-439a-87dd-a19bb431e853" src="https://github.com/user-attachments/assets/26fc51d2-a8db-4d4b-8e4b-1f1e102aa8b0" />
