@@ -58,3 +58,11 @@ Dados no Colab do Google:
 <img width="762" height="771" alt="508499491-e238490b-dc75-439e-a2e8-d96f75a70006" src="https://github.com/user-attachments/assets/77478b87-c414-44a1-bb87-961c6922bb15" />
 </br>
 <img width="774" height="432" alt="508499526-c577c132-317e-439a-87dd-a19bb431e853" src="https://github.com/user-attachments/assets/26fc51d2-a8db-4d4b-8e4b-1f1e102aa8b0" />
+</br>
+</br>
+## Atividade 5: Regressão linear
+Dados no Excel:
+</br>
+</br>
+<img width="1214" height="725" alt="image" src="https://github.com/user-attachments/assets/40e2a7e0-97a0-468d-9de5-799059d49187" />
+
