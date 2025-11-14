@@ -35,6 +35,8 @@ Ultilizamos o Excel e as seguintes fórmulas:</br>
 </br>
 "ÍNDICE(sp_municipal!F:F;B18;1)".
 </br>
+*VTI - Valor de Transformação Industrial
+</br>
 </br>
 <img width="1136" height="706" alt="508485904-c5e558b3-9c3d-4104-a7a1-c4d9661c537a" src="https://github.com/user-attachments/assets/9ed6dcc9-9759-4eff-877a-0b8cd1d43d69" /></br>
 
