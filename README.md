@@ -73,4 +73,13 @@ Dados no Excel:
 </br>
 </br>
 <img width="1214" height="725" alt="image" src="https://github.com/user-attachments/assets/40e2a7e0-97a0-468d-9de5-799059d49187" />
+</br>
+</br>
+## Atividade 6: análise de dados sobre salário
+</br>
+elaboração de gráfico e tabela sobre salário em função do tempo de experiência, utilizando excel e colab.
+</br>
+<img width="998" height="818" alt="512366595-dba02077-00a4-45a1-b969-1d34ed77b667" src="https://github.com/user-attachments/assets/07ad378b-7ba4-4fb6-9df7-c150328270ac" />
+</br>
+</br>
 
